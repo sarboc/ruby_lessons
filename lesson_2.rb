@@ -1,3 +1,5 @@
+# This lesson can be followed from the command line by running 'ruby lesson_2.rb'
+
 user_info = {}
 
 puts "Let's learn about data types!"
